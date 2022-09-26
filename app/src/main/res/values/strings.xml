@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TugasMenuOption</string>
+    <string-array name="ket_masuk">
+        <item>Hadir tepat waktu</item>
+        <item>Terlambat</item>
+        <item>Ijin</item>
+        <item>Sakit</item>
+    </string-array>
+</resources>
